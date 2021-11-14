@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hernandezjdeveloper
 - 👀 I’m interested in software and design tecnology
 - 🌱 I’m currently learning fronted web
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hernandezj1945@gmail.com
 
 <!---
